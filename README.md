@@ -12,7 +12,10 @@ for n > 2, and a, b, c > 0 and a, b, c, n ∈ Z
 
 <br>
 But Homer has appeared to have found a solution: <br>
-![alt text](https://i1.wp.com/media.boingboing.net/wp-content/uploads/2014/10/Chalkboard.png?resize=319%2C284 "Homer's Last Theorem")
+
+![alt text][logo]
+
+[logo]: https://i1.wp.com/media.boingboing.net/wp-content/uploads/2014/10/Chalkboard.png?resize=319%2C284 "Homer's Last Theorem"
 <br>
 And putting it in on the calculator seems to work! How is it that Homer Simpson, or more accurately the writer, David Cohen seems to have
 found a solution to the problem that took mathematicians centuries to solve?
