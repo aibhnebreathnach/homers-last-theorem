@@ -6,9 +6,9 @@ This particular secret involves [Fermat's Last Theorem.](https://en.wikipedia.or
 A mathematical problem that has plagued mathematicians for over 300 years.
 
 Fermat's Last Theorem states: <br>
-
+There should be no integers such that:
 a<sup>n</sup> + b<sup>n</sup> = c<sup>n</sup> <br>
-for n > 2, and a, b, c > 0 and a, b, c, n ∈ Z
+for n > 2
 
 <br>
 But Homer has appeared to have found a solution: <br>
