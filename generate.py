@@ -5,8 +5,10 @@ upper_bounds = array of upper bounds for numbers to test (1 -> upper_bound) for 
 
 Intended to use at the start of every fermat.py script to save writing to file.
 But may have to write to file if numbers get to big to hold in memory
+
+ARGS = (a/b, n)
 '''
-import sys, itertools
+import sys
 
 upper_bounds = sys.argv[1:]
 
@@ -32,5 +34,3 @@ def generate(upper_bounds):
 	data_dict = {'a_b' : a_b_tuples, 'n' : n_bound}
 
 	return data_dict
-
-generate(upper_bounds)
